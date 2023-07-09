@@ -16,8 +16,8 @@ development environment:
 - compiler: Clang 14.0.0 arm64-apple-darwin22.1.0
 - Integrated Development Environment (IDE): Visual Studio Code
 - C++ libraries:
-  - maya2024
-  - USD (maya2024 built in usd)
+  - maya_2024
+  - USD (maya_2024 built in usd)
   - python3.10
 
 https://github.com/Yuqian-He/master-project/assets/104955148/9d8fe5b5-7f06-4188-8237-92f830a4fb9d
@@ -35,8 +35,8 @@ development environment:
 - compiler: Xcode
 - Integrated Development Environment (IDE): Visual Studio Code
 - C++ libraries:
-  - houdini19.5
-  - USD (houdini19.5 built in usd)
+  - houdini_19.5
+  - USD (houdini_19.5 built in usd)
   - python3.9
 
 https://github.com/Yuqian-He/master-project/assets/104955148/599517f3-4f94-4351-8b65-101b70dbb0cf
